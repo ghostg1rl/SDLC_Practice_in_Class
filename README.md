@@ -23,8 +23,8 @@ This is a **complete guide to Markdown**.
 ### Lists
 - Item 1
 - Item 2
-  -Subitem 2a
-  -Subitem 2b
+  - Subitem 2a
+  - Subitem 2b
 	
 ---
 
